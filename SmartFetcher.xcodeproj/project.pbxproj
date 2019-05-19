@@ -542,7 +542,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.clean-swift.SmartFetcherTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = "";
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SmartFetcher.app/SmartFetcher";
 			};
 			name = Debug;
@@ -561,7 +561,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.clean-swift.SmartFetcherTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = "";
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SmartFetcher.app/SmartFetcher";
 			};
 			name = Release;
@@ -579,7 +579,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.clean-swift.SmartFetcherUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = "";
+				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = SmartFetcher;
 			};
 			name = Debug;
@@ -597,7 +597,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.clean-swift.SmartFetcherUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = "";
+				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = SmartFetcher;
 			};
 			name = Release;
